@@ -1,0 +1,7 @@
+package classesWithAttributes;
+
+public class Product {
+	String nameString;
+	String description;
+	
+}

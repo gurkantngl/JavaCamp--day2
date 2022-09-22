@@ -1,0 +1,7 @@
+package ınheritance;
+
+public class CustomerManager {
+	public void List() {
+		System.out.println("Musteri listelendi");
+	}
+}

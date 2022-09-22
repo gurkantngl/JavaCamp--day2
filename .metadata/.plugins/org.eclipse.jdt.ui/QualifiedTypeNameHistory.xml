@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="methods2.Main"/>
+    <fullyQualifiedTypeName name="classes.CustomerManager"/>
+    <fullyQualifiedTypeName name="reCapDemo_Classes.DortIslem"/>
+    <fullyQualifiedTypeName name="java.lang.Process"/>
+    <fullyQualifiedTypeName name="classesWithAttributes.ProductManager"/>
+    <fullyQualifiedTypeName name="javax.imageio.ImageTranscoder"/>
+    <fullyQualifiedTypeName name="classesWithAttributes.Product"/>
+    <fullyQualifiedTypeName name="methodOverloading.DortIslem"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="ınheritance.Customer"/>
+    <fullyQualifiedTypeName name="ınheritance.Employee"/>
+    <fullyQualifiedTypeName name="ınheritance.PersonManager"/>
+    <fullyQualifiedTypeName name="ınheritance.EmployeeManager"/>
+    <fullyQualifiedTypeName name="ınheritance.CustomerManager"/>
+    <fullyQualifiedTypeName name="inheritanceDemo.KrediUI"/>
+    <fullyQualifiedTypeName name="inheritanceDemo.OgretmenKrediManager"/>
+    <fullyQualifiedTypeName name="inheritanceDemo.BaseKrediManager"/>
+    <fullyQualifiedTypeName name="inheritanceDemo.AskerKredisi"/>
+</qualifiedTypeNameHistroy>

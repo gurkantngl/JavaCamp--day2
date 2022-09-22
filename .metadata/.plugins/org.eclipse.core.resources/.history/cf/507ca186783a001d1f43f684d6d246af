@@ -1,0 +1,6 @@
+package ınheritance;
+
+public class Employee {
+	int id;
+	String firstName;
+}
